@@ -1,4 +1,11 @@
-1
+### Strategi for rekruttering og sammensetning
+Ved oppstart har Erling allerede en idé om hvordan gruppen kan se ut han vet at han vil ha gruppemedlemmer som tilhører ulike grupper mennesker. Noen jobber innen kommunal administrasjon, politikk, IT, cyber security og også noen brukerrepresentanter. For at formingsfasen skal gå så bra som mulig bør gruppen være så hetrogen som mulig uten at den blir helt steril og at det ikke blir noen gnisninger i det hele tatt.
+
+For at en gruppe skal fungere godt sammen krever det mer enn kun faglige kvalifikasjoner. Jacobsen D. I. tar dette opp i boka engangsorganisasjonen. Han snakker om at det i alle grupper oppstår en sosial dynamikk og at det går mer inn i en teamoppgave enn kun selve oppgaven. Disse menneskene må arbeide sammen, omgås hverandre i perioder med mye stress og de må tilbringe mye tid sammen utenom. Derfor er det viktig at Erling ikke forhaster seg med å ansette mennesker inn i teamet, men tar seg tid til gode intervjuer for å se om vedkommende har evne til å samarbeide, analytiske evner, evne til å kommunisere og andre sosiale evner (Jacobsen, D. I., 2016).
+
+Det at Erling allerede har en idé av hvem han trenger til teamet er et godt utganspunkt. Nå må han finne ut hva slags type mennesker han vil ha med i gruppa. For at gruppa skal fungere best mulig bør det være en viss grad av heterogenitet for at man skal unngå store konflikter i formingsfasen. Samtidig er det viktig med ulikheter innad i gruppa for å skape utfordrende ideer som bidrar til fremgang. En studie av Nawaz M. R. og andre viser at det er en forskjell mellom "surface level divercity" og "deep level divercity". "Surface level divercity" vil si forskjeller i alder, etnisitet, kjønn, bakgrunn, etc. Studien fant ut at disse forskjellene hadde større utslag på de relasjonelle konfliktene i en gruppe. Det vil si konflikter som hindret fremgang med oppgaven. Men "deep level divercity" eller dybdemangfold vil si forskjeller i verdier, erfaringer, kunnskap og tenkemåter. Denne typen mangfold ble påvist å skape mer oppgavekonflikt og betydelig mindre relasjonskonflikt. Oppgave konflikt vil bidra til utfordrende tankemåter og nye ideer som vil gi fremgang i oppgaven (Nawaz, et. al, 2022). Derfor bør Erling ut ifra denne studien danne en gruppe som er ganske heterogen når det kommer til overflatemangfoldet, men en del større spredning når det kommer til tidligere erfaringer, verdier, kunnskaper etc.
+
+Dybdemangfoldet vil også være viktig for å dekke behovet for ulike roller. Dersom alle i teamet har liknende erfaringer vil det være vanskelig å fordele teamroller. Derfor vil et variert dybdemangfold bidra til å kunne lettere fordele roller ut ifra teammedlemmenes tidligere erfaringer og kunnskaper. Samtidig som det vil være gunstig å holde de demografiske ulikhete lave for å unngå store konflikter som ikke bidrar til oppgaven. Om Erling har alt dette i bakhodet bør han kunne sette sammen et godt team som vil jobbe godt sammen, utfordre hverandres ideer og tankemønstre og skape et team som jobber effektivt fram mot et felles mål. 
 
 
 2
@@ -27,7 +34,15 @@ Vi anbefaler også at partene gjennomgår mandatet ved avtalte milepæler og vur
 
 4
 ### Proaktiv mekanismer for konflikthåndtering
+Konflikt er vanskelig å unngå i et prosjekt, spesielt når gruppen består av mennesker med ulik faglig bakgrunn, erfaringer og synspunkter. For Erling er dette særlig relevant siden prosjektgruppen består av personer fra blant annet IT, cyber security, kommunal administrasjon, politikk og brukerrepresentanter. Derfor bør han ikke bare vente til en konflikt blir alvorlig, men prøve å oppdage og håndtere uenigheter tidlig. Jacobsen (2016) peker på at det er viktig å skille mellom personkonflikter og sakskonflikter. Personkonflikter er ofte knyttet til følelser og relasjoner, mens sakskonflikter handler om selve oppgaven. Derfor bør Erling forsøke å holde diskusjonene rettet mot saken og ikke la uenighet utvikle seg til personlige konflikter.
 
+En viktig del av dette vil være å skape en åpen kommunikasjon i gruppen. Erling burde derfor ha faste møtepunkter hvor medlemmene kan ta opp problemer, uenigheter og usikkerhet før de blir større. Gruppen bør også diskutere på forhånd hvilke områder i prosjektet det kan være sannsynlig at konflikter oppstår. Dette kan for eksempel være spørsmål om sikkerhet, design, budsjett eller hvilke funksjoner medborgerportalen skal prioritere. Ved å snakke om dette tidlig kan gruppen finne løsninger før konfliktene blir manifeste. Dette kan også bidra til en «tidlig suksess», der gruppen opplever at de faktisk klarer å løse uenigheter på en god måte.
+
+Når en konflikt først oppstår, finnes det flere måter å håndtere den på. Erling kan blant annet bruke problemløsning, kompromiss, ettergivenhet, dominans eller unngåelse. I dette prosjektet vil problemløsning være en naturlig strategi, fordi gruppen består av mange ulike fagpersoner som kan ha forskjellige syn på hva som er den beste løsningen. Målet bør være å finne årsaken til konflikten, analysere problemet og forsøke å finne en løsning som fungerer for alle. Samtidig må Erling være klar over at denne strategien kan være tidkrevende. Dersom tiden blir knapp, kan det derfor være nødvendig å bruke kompromiss eller flertallsavgjørelser for å komme videre.
+
+Tidspress kan også være en viktig årsak til at konflikter blir tydeligere i prosjektet. Når prosjektet er omtrent halvveis, kan gruppemedlemmene begynne å sammenligne det de har oppnådd med tiden de har igjen. Dette kan skape en sterkere følelse av dårlig tid og føre til at uenigheter kommer mer til overflaten. Derfor bør Erling forsøke å skape en realistisk forståelse av tid og fremdrift tidlig i prosjektet. På den måten kan gruppen oppdage problemer før de får for liten tid til å håndtere dem.
+
+Erling bør derfor bygge en kultur der uenighet ikke blir sett på som noe negativt i seg selv. Sakskonflikter kan føre til nye ideer og bedre løsninger dersom de håndteres på en konstruktiv måte. Ved å kombinere åpen kommunikasjon, tidlig konflikthåndtering og tydelige rutiner kan Erling redusere risikoen for at konflikter utvikler seg til personlige problemer. Dette vil kunne styrke både samarbeidet i gruppen og prosjektets fremdrift. (Jacobsen, 2016)
 
 5
 ### Tidspress og planleggingsfellen
@@ -55,7 +70,9 @@ Prosjektet burde gjerne streve etter en åpenhetskultur som skal legge til rette
 
 ### Referanser
 Køster, C. (2022, 11 21). Prosjektbloggen. Hentet fra 4 tips for god kommunikasjon i prosjekter: https://www.prosjektbloggen.no/4-tips-for-god-kommunikasjon-i-prosjekter
+
 Jacobsen, Dag Ingvar. 2016. Engangsorganisasjonen organisering og ledelse av prosjekter. Bergen: Fagbokforl.
 
+Jacobsen, D. I., (2016) *Engangsorganisasjonen: Organisering og ledelse av prosjekter*. Fagbokforlaget
 
-
+Nawaz MR, Ishaq MI, Ahmad R, Faisal M and Raza A (2022) Team diversity, conflict, and trust: Evidence from the health sector. Front. Psychol. 13:935773. doi: 10.3389/fpsyg.2022.935773
