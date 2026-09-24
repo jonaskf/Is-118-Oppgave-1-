@@ -14,7 +14,7 @@ Det første møtet er det viktigste møtet for teamet, og det er derfor viktig a
 
 4
 ### Proaktiv mekanismer for konflikthåndtering
-
+KONFLIKT ER IKKE BRA
 5
 
 
