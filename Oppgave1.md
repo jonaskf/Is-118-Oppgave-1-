@@ -22,4 +22,6 @@ Dybdemangfoldet vil også være viktig for å dekke behovet for ulike roller. De
 
 6
 
+Jacobsen, D. I., (2016) *Engangsorganisasjonen: Organisering og ledelse av prosjekter*. Fagbokforlaget
+
 Nawaz MR, Ishaq MI, Ahmad R, Faisal M and Raza A (2022) Team diversity, conflict, and trust: Evidence from the health sector. Front. Psychol. 13:935773. doi: 10.3389/fpsyg.2022.935773
