@@ -16,7 +16,18 @@ Det første møtet er det viktigste møtet for teamet, og det er derfor viktig a
 ### Proaktiv mekanismer for konflikthåndtering
 KONFLIKT ER IKKE BRA
 5
+### Tidspress og planleggingsfellen
+I ethvert prosjekt som har en tidsramme, om det er stort eller lite, vil det kunne oppstå tidspress. I Erlings tilfelle er denne tidsrammen 15 måneder til å utvikle og lansere en ny medborgerportal for kommunen. I tillegg har Erling fått et budsjett for prosjektet på 8 millioner kroner, og et team bestående av folk med ulike faglige bakgrunner, perspektiver og ansvarsområder. Med disse faktorene i betraktning er det ofte fort gjort å «kaste seg i det» etter at prosjektets mål er blitt tydelig avklart. 
 
+For å motvirke tidspresset burde Erling bruke den tidlige fasen til planlegging og teambuilding, noe som fort blir oversett i prosjektet på grunn av tidspress. Det at teamet blir kjent med hverandre er et viktig og hjelpsomt element som vil kunne gjøre teammedlemmene tryggere på hverandre. Erling burde sette opp arrangementer tidlig i fasen der teamet kan møtes i uformelle omgivelser, hvor de kan bli bedre kjent, bygge tillit og lære hverandres styrker og svakheter. (Jacobsen 2016)
+
+Ved å bli kjent med hverandres styrker og svakheter vil teamet kunne kompensere for hverandres svakheter, og utnytte teamets samlede kompetanse. Teambyggingen vil kunne bidra til økt motivasjon i teamet. Når de blir kjent vil de ha større lyst til å hjelpe hverandre, og det vil være bedre kommunikasjon mellom dem på grunn av at de stoler på hverandre. Dette vil øke effektiviteten i prosjektet og vil være en positiv basis de kan bygge på underveis. 
+
+Erling burde også begynne med å sette opp møter der teamet drøfter hvilke konflikter de kan møte under prosessen. Dette vil bidra til en større forståelse av akkurat hva teamet kan møte under prosjektarbeidet. De vil kunne få brukt tid tidlig til å proaktivt utvikle løsninger på mulige problemer dersom de dukker opp, og stoppe dem før de oppstår. Dette vil være til stor hjelp senere i prosjektet slik at de ikke bruker unødvendig tid på problemer som kunne lett vært forebygget.
+
+Selv med god planlegging av den relasjonelle usikkerheten kan de fortsatt havne i en «planleggingsfelle» knyttet til selve oppgaven, der de undervurderer tiden, ressursene og risikoen som kreves for å fullføre prosjektet. Derfor burde Erling etablere systemer tidlig for å motvirke dette. På grunn av den store usikkerheten i begynnelsen av prosjektet, bør han samle teamet til åpne diskusjoner for å gjennomføre en realistisk usikkerhets- og risikoanalyse. I likhet med å diskutere mulige konflikter innad i teamet selv, vil dette møtet også hjelpe med å spare tid og ressurser slik at det ikke trengs unødvendige møter for videre avklaring.(Jacobsen 2016)
+
+Teamet har en lang tidsramme for prosjektet som betyr at de mest sannsynlig kommer til å møte på ny informasjon, omprioriteringer, eller problemer som vil gjøre at de må gjøre endringer. Derfor er det viktig at Erling lager en plan fleksibel nok til å håndtere endringer. Han burde desentralisere beslutningsmyndigheten slik at ikke alle endringer må godkjennes av ham. Denne godkjenningsprosessen kan forstyrre teamets flyt og videre ta ekstra tid for å avklare om endringen er godkjent eller ikke. (Jacobsen 2016)
 
 ### Sikring av god kommunikasjon
 
@@ -30,4 +41,7 @@ Prosjektet burde gjerne streve etter en åpenhetskultur som skal legge til rette
 
 ### Referanser
 Køster, C. (2022, 11 21). Prosjektbloggen. Hentet fra 4 tips for god kommunikasjon i prosjekter: https://www.prosjektbloggen.no/4-tips-for-god-kommunikasjon-i-prosjekter
+Jacobsen, Dag Ingvar. 2016. Engangsorganisasjonen organisering og ledelse av prosjekter. Bergen: Fagbokforl.
+
+
 
